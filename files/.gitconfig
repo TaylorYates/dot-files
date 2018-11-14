@@ -1,15 +1,15 @@
 [push]
 	default = upstream
 [user]
-	name = Ben Hoskings
-	email = ben@hoskings.net
+	name = Taylor Yates
+	email = taylor.yates@live.com
 [color]
 	ui = auto
 [core]
-	excludesfile = /Users/ben/.gitignore
+	excludesfile = /Users/tayloryates/.gitignore
 	ignorecase = false
 [github]
-	user = benhoskings
+	user = TaylorYates
 [diff]
 	submodule = log
 	compactionHeuristic = true
